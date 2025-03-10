@@ -1,4 +1,0 @@
-/Users/stu/stuff/goods_excavatooooor/build/CMakeFiles/encoder.dir
-/Users/stu/stuff/goods_excavatooooor/build/CMakeFiles/aws-lambda-package-encoder.dir
-/Users/stu/stuff/goods_excavatooooor/build/CMakeFiles/edit_cache.dir
-/Users/stu/stuff/goods_excavatooooor/build/CMakeFiles/rebuild_cache.dir
